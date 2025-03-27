@@ -9,7 +9,7 @@
 <li>WordPress creation & customization</li> <li>Dashboard development with Kendo React</li> </ul> </td> 
 <td> <b>📂 Programming & Frameworks</b> <ul> <li>React.js, Next.js</li> <li>Node.js</li> 
 <li>HTML, CSS, Tailwind CSS</li> </ul> </td> </tr> <tr> <td> <b>🛢 Database Management</b> 
-<ul> <li>PostgreSQL</li> <li>MySQL</li> </ul> </td> <td> <b>🎨 Design & Creativity</b>
+<ul> <li>PostgreSQL</li> <li>MySQL</li> <li>MongoDB</li> </ul> </td> <td> <b>🎨 Design & Creativity</b>
 <ul> <li>Graphic design (Photoshop, Canva)</li> <li>Funny video content creation</li> 
 <li>EDM music enthusiast</li> </ul> </td> </tr> </table> </div>
 
